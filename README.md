@@ -1,5 +1,7 @@
 # Design Contest: Create Our New Twitter Image Assets!
 
+## 🏆 Grand Prize: 5,000 sats | 🎟️ Participation Reward: 100 sats
+
 We're looking for talented designers in our community to help us create a new set of shareable images for our social media channels.
 
 This is your chance to put your creative stamp on the Lightning Bounties brand and earn some sats for your work.
