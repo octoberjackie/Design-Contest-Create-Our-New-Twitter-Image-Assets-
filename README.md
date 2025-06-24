@@ -118,7 +118,7 @@ Every valid entry that meets the submission guidelines will receive **100 sats**
 
 ## Rewards
 
-* **Winners:** 10,000 sats per category
+* **Winners:** 5,000 sats per category
 * **Participants:** 100 sats per submission
 * Max 3 submissions per person (1 per category)
 * You can only win 1 category
