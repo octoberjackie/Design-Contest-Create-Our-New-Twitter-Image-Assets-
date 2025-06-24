@@ -26,12 +26,10 @@ We need three distinct image templates for our Twitter posts. Each design should
 *   **Lightning Bounties Logo:**
     *   `[Link to your logo file, e.g., logo.svg]`
 *   **Color Palette:**
-    *   Primary Blue: `#00BFFF`
-    *   Accent Orange: `#FFA500`
-    *   Neutral Gray: `#808080`
+    *   Primary Purple/Pink: `#c888dc`
+    *   Accent Turquoise: `#8ec5cc`
+    *   Dark Background: `#2e2c2d`
     *   Background White: `#FFFFFF`
-*   **Fonts:**
-    *   `[List your brand fonts here]`
 
 ---
 
@@ -49,4 +47,4 @@ We believe in rewarding good work.
 *   **🏆 Grand Prize Winners:** The creator of the winning design for **each of the three categories** will receive **10,000 sats**.
 *   **🎟️ Participation Reward:** Every valid entry that meets the submission guidelines will receive **100 sats** as a thank you for contributing.
 
-The contest ends on [Your Deadline Date]. Winners will be announced shortly after. We can't wait to see what you create!
+The contest ends on [July 1st, 2025]. Winners will be announced shortly after. We can't wait to see what you create!
