@@ -25,7 +25,7 @@ We need three distinct image templates for our Twitter posts. Each design should
 ### Assets & Design Tokens
 
 *   **Lightning Bounties Logo:**
-    *   check out logo assets in `/logos` directory
+    *   check out logo assets in `LB_Logos` directory
 *   **Color Palette:**
     *   Primary Purple/Pink: `#c888dc`
     *   Accent Turquoise: `#8ec5cc`
@@ -79,6 +79,7 @@ We need three distinct image templates for our Twitter posts. Each design should
 4. Click "Claim Reward" and reference your merged pull request
 5. The reward will be added to your Lightning Bounties balance
 6. Withdraw to your Lightning wallet using the platform's withdrawal system
+   - [View our Docs for more details](https://docs.lightningbounties.com/docs/getting-started/solving-a-bounty/working-on-the-bounty)
 
 <details>
 <summary><b>Troubleshooting</b></summary>
@@ -112,7 +113,7 @@ Every valid entry that meets the submission guidelines will receive **100 sats**
 - We will **zap you directly on Nostr** for your 100 sat participation reward.
 - **You must have zaps enabled** on your Nostr client to receive payments
 - **Include your Nostr public key (npub)** in your pull request description
-- **Link your GitHub pull request** below our Lightning Bounties Nostr announcement posts
+- **Link your GitHub pull request** below our Lightning Bounties Nostr announcement posts [here](https://primal.net/p/nprofile1qqsxjszwrjqxjetnfeh9r2kea3jyz4uqxedyawwq58f2cc4uqwtrq7gyjy2yn).
 - **Maximum of 25 total participation rewards** available (first come, first served)
 
 ## Rewards
@@ -123,5 +124,3 @@ Every valid entry that meets the submission guidelines will receive **100 sats**
 * You can only win 1 category
 * Limited to first 25 submissions
 * Deadline: July 1st, 2025
-
-The contest ends on [July 1st, 2025]. Winners will be announced shortly after. We can't wait to see what you create!
