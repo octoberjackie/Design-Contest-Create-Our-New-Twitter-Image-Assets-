@@ -1,3 +1,6 @@
+### 🏆 Grand Prize: 5,000 sats | 🎟️ Participation Reward: 100 sats
+----
+
 ## Design Requirements
 
 *   **Dimensions:** All images should be created at **1600 x 900 pixels** (a 16:9 aspect ratio), which is ideal for Twitter posts.
