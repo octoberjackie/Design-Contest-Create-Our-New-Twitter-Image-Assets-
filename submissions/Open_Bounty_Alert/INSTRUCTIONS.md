@@ -1,5 +1,5 @@
 ### 🏆 Grand Prize: 5,000 sats | 🎟️ Participation Reward: 100 sats
-----
+----  
 
 ## Design Requirements
 
